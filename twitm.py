@@ -10,7 +10,7 @@ badwords = badwords + 'do these any said really even over same then now The Just
 badwordlist = badwords.split()
 
 #set twitter api credentials
-api = twitter.Api(consumer_key='DJQsTwp76jumAZFpRuB4CZtZd',consumer_secret='hpDA6nOrxxseymmDioOOW9ypKxYUAN4P4AyX8hIvqfZhf6iNCv',  access_token_key='903723060909498368-EAeJ3IxExdAb9YSSBguhnAp9ksHh9qC', access_token_secret='Pwi77bW61lloVsvOpiPBHgAJt0YDuzzp8HfINXilG7bwQ')
+api = twitter.Api(consumer_key='',consumer_secret='',  access_token_key='', access_token_secret='')
 
 screenname = sys.argv[1]
 
